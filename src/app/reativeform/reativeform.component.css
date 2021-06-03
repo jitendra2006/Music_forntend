@@ -1,0 +1,25 @@
+.container{
+    width: 50%;
+    margin:auto;
+}
+
+.card{
+    color:#fff;
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px 10px black;
+    background-color: rgb(80, 70, 104);
+    border: 3px solid rgb(205, 50, 140);
+    width:45%;
+    margin-top: 20px;
+    overflow-y: hidden
+}
+
+input:hover{
+    background-color: rgb(252, 243, 243);
+    font-size: 25px;
+}
+
+button:hover{
+    border-radius: 20%;
+    font-size: 20px;
+}
